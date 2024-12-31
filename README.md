@@ -16,7 +16,3 @@ Missing dependencies
 
 Create react app
 'npx create-react-app advanced-appliance-repair'
-
-# Index.html
-
-New file in public folder
