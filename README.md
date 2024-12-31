@@ -10,3 +10,4 @@ Tutorial: https://www.geeksforgeeks.org/deployment-of-react-application-using-gi
 
 'npm install gh-pages --save-dev'
 
+'npm install react react-dom react-scripts'
