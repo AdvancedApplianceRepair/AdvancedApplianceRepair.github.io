@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdvancedApplianceRepair.github.io/static/css/main.90dadb7a.css",
+    "main.js": "/AdvancedApplianceRepair.github.io/static/js/main.7aa22b9b.js",
+    "static/js/488.8f0b0b67.chunk.js": "/AdvancedApplianceRepair.github.io/static/js/488.8f0b0b67.chunk.js",
+    "index.html": "/AdvancedApplianceRepair.github.io/index.html",
+    "main.90dadb7a.css.map": "/AdvancedApplianceRepair.github.io/static/css/main.90dadb7a.css.map",
+    "main.7aa22b9b.js.map": "/AdvancedApplianceRepair.github.io/static/js/main.7aa22b9b.js.map",
+    "488.8f0b0b67.chunk.js.map": "/AdvancedApplianceRepair.github.io/static/js/488.8f0b0b67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90dadb7a.css",
+    "static/js/main.7aa22b9b.js"
+  ]
+}
