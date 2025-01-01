@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AdvancedApplianceRepair.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/AdvancedApplianceRepair.github.io/static/js/main.3660ce08.js",
-    "static/js/488.8f0b0b67.chunk.js": "/AdvancedApplianceRepair.github.io/static/js/488.8f0b0b67.chunk.js",
-    "static/media/logo.svg": "/AdvancedApplianceRepair.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/AdvancedApplianceRepair.github.io/index.html",
-    "main.f855e6bc.css.map": "/AdvancedApplianceRepair.github.io/static/css/main.f855e6bc.css.map",
-    "main.3660ce08.js.map": "/AdvancedApplianceRepair.github.io/static/js/main.3660ce08.js.map",
-    "488.8f0b0b67.chunk.js.map": "/AdvancedApplianceRepair.github.io/static/js/488.8f0b0b67.chunk.js.map"
+    "main.css": "/AdvancedApplianceRepair/static/css/main.f855e6bc.css",
+    "main.js": "/AdvancedApplianceRepair/static/js/main.bebde2f2.js",
+    "static/js/488.8f0b0b67.chunk.js": "/AdvancedApplianceRepair/static/js/488.8f0b0b67.chunk.js",
+    "static/media/logo.svg": "/AdvancedApplianceRepair/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AdvancedApplianceRepair/index.html",
+    "main.f855e6bc.css.map": "/AdvancedApplianceRepair/static/css/main.f855e6bc.css.map",
+    "main.bebde2f2.js.map": "/AdvancedApplianceRepair/static/js/main.bebde2f2.js.map",
+    "488.8f0b0b67.chunk.js.map": "/AdvancedApplianceRepair/static/js/488.8f0b0b67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.3660ce08.js"
+    "static/js/main.bebde2f2.js"
   ]
 }
