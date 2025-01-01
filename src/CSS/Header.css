@@ -1,4 +1,15 @@
+/* KEY CONCEPTS
+.css is for styling only, no content is here, that is in .js
+ */
+
+
+/* Header Styling */
 header {
+    /* Background image */
+    /* background-image: url('src/assets/images/backgrounds/bluepurplegradient.jpg'); */
+    /* background-size: cover; */
+    /* background-Image: url('${process.env.PUBLIC_URL}/images/backgrounds/bluepurplegradient.jpg'); */
+
     background-color: #022943;
     color: #fff;
     padding: 20px 0;
